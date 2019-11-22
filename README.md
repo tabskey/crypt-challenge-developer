@@ -43,6 +43,6 @@ https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=seu_token
 
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.
 
-
+![](https://media.tenor.com/images/fe3826b59f80f5e6c7cc04eb474fb44d/tenor.gif)
 **Espero ajudar a todas que querem entregar o desafio.**
 Alterem o código de acordo com a linguagem que sabem!
