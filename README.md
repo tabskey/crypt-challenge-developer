@@ -1,11 +1,12 @@
 
 ![](https://media.tenor.com/images/b38e4030de1357ce5d48d11842a1d6a4/tenor.gif)
+
 ##Criptografia de Júlio César
  Das Criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais. Essa criptografia se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas = 3:
 
 > **Normal**: a ligeira raposa marrom saltou sobre o cachorro cansado
 
-> Cifra****do: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+> Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
 ### Regras
 As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
